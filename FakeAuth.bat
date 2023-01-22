@@ -1,7 +1,5 @@
 Title Cracked ScriptWare V2
 
-rem Replace Texts!, you can do anything you want with this file its just a basic fake login!
-rem i will place some shitty checkers to make it more realistic, python versions are coming soon too
 
 
 
